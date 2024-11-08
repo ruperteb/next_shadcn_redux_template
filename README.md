@@ -1,4 +1,4 @@
-# Next-MUI Template
+# Next-shadcn-Redux Template
 
 This is a boilerplate template for creating a [Next.js](https://nextjs.org) project with [shadcn/ui](https://ui.shadcn.com/) and [Redux](https://redux.js.org/). It includes a basic authentication / authorisation flow, involving:
 
